@@ -1,0 +1,23 @@
+{
+  "name": "asj-project3b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarno-yarva/asj-project3b.git"
+  },
+  "author": "Yaroslav Yakovlev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarno-yarva/asj-project3b/issues"
+  },
+  "homepage": "https://github.com/yarno-yarva/asj-project3b#readme",
+  "dependencies": {
+    "@yarno-yarva/ajs": "^1.1.0"
+  }
+}
